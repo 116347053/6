@@ -1,0 +1,5 @@
+# Global code owners
+* @116347053/developers
+
+# Specific file owners
+*.md @116347053/developers
